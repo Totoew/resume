@@ -1,6 +1,6 @@
 Добро пожаловать в мой профиль на GitHub! Я Данил Тотоев, Frontend-разработчик и фанат программирования. 
 
-[Мое фото](https://drive.google.com/file/d/1_m3hvgdioSuwuyQIoFdXLEYz34VVsGCc/view?usp=sharing)
+![Мое фото](https://drive.google.com/file/d/1_m3hvgdioSuwuyQIoFdXLEYz34VVsGCc/view?usp=sharing)
 # Обо мне:
 
 - 🌍Я живу в городе Екатеринбург.
